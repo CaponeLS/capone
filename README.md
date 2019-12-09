@@ -1,0 +1,2 @@
+# capone
+ajutorul lui capone
